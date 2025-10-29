@@ -14,7 +14,7 @@ A passionate Machine Learning Aspirant from India, eager to turn data into actio
 - 🌱 I’m currently learning Machine learning, Deep learning (Tensorflow,Keras, CNN, RNN, ANN, etc...), Natural Language Processing
 - 👨‍💻 All of my Projects are available at https://github.com/AmitAnant01?tab=repositories
 - 📫 How to reach me:amitanant5852@gmail.com
-- 🛠 My Portfolio:[(https://tinyurl.com/anantamit)]
+- 🛠 My Portfolio:[(https://tinyurl.com/portfolioanantamit)]
 
 
 ### Connect with me:
